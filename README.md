@@ -1,8 +1,11 @@
-<!--
 <div align="center">
-  <img src="/api/placeholder/1500/290" alt="banner" style="border-radius: 10px"/>
+  <img 
+    src="https://github.com/user-attachments/assets/8ada2182-7d28-49ba-93c2-36cef7271b4d" 
+    alt="header banner"
+    width="1500"
+    style="border-radius: 10px; max-width: 100%;"
+  />
 </div>
--->
 
 # Hello, I'm FrankStein31 a.k.a Frankie Steinlie! 👋 
 
