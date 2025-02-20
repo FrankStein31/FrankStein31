@@ -1,16 +1,16 @@
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/8ada2182-7d28-49ba-93c2-36cef7271b4d" 
+    src="https://github.com/user-attachments/assets/6b9df9aa-323b-4cf6-b527-9987887efaa1" 
     alt="header banner"
     width="1500"
     style="border-radius: 10px; max-width: 100%;"
   />
 </div>
 
-# Hello, I'm FrankStein31 a.k.a Frankie Steinlie! 👋 
+<h1 align="center">Hello, I'm FrankStein31 a.k.a Frankie Steinlie! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AD1&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Continuous+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Continuous+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## About Me 🚀
@@ -51,17 +51,16 @@ I'm passionate about transforming ideas into reality through elegant code. As a 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankStein31&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<!--
 ## Let's Connect! 🤝
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frankie-steinlie/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FrSteinlie)
+[![Instagram Personal](https://img.shields.io/badge/Instagram_Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frankstein31__/)
+[![Instagram Business](https://img.shields.io/badge/Instagram_Business-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/steinliejoki)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url) -->
 </div>
--->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FrankStein31&color=blue&style=flat-square" alt="Profile views counter"/>
