@@ -54,6 +54,12 @@ I'm passionate about transforming ideas into reality through elegant code. As a 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankStein31&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+## Streak Stats 📈
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrankStein31&theme=radical)](https://git.io/streak-stats)
+</div>
+
 ## Let's Connect! 🤝
 
 <div align="center">
