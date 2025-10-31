@@ -75,11 +75,11 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Recent Activity**
+<!-- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Recent Activity** -->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankStein31&theme=tokyo-night&bg_color=1a1b27&color=39ff14&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
-</div>
+<!-- <div align="center"> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankStein31&theme=tokyo-night&bg_color=1a1b27&color=39ff14&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/> -->
+<!-- </div> -->
 
 ---
 
