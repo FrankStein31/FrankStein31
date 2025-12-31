@@ -26,8 +26,10 @@
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/FrSteinlie)
   [![Instagram Personal](https://img.shields.io/badge/Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/frankstein31__/)
   [![Instagram Business](https://img.shields.io/badge/Business-FF6B35?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF6B35)](https://www.instagram.com/steinliejoki)
+  [![Bitly](https://img.shields.io/badge/Bitly-EE6123?style=for-the-badge&logo=bitly&logoColor=white&labelColor=EE6123)](https://bit.ly/m/frankie-steinlie)
   
 </div>
+
 
 <br/>
 
