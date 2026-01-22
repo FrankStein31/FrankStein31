@@ -71,7 +71,7 @@ I enjoy working on projects that combine **data, logic, and impact**, especially
 [![Twitter](https://img.shields.io/badge/Twitter-@FrSteinlie-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/FrSteinlie)
 [![Instagram](https://img.shields.io/badge/Instagram-frankstein31__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/frankstein31__/)
 [![Business](https://img.shields.io/badge/Business-SteinlieJoki-FF6B35?style=for-the-badge&logo=instagram)](https://www.instagram.com/steinliejoki)
-[![All Links](https://img.shields.io/badge/Link_in_Bio-Bitly-EE6123?style=for-the-badge&logo=bitly&logoColor=white)](https://bit.ly/m/frankie-steinlie)
+[![All Links](https://img.shields.io/badge/All_Links-Bitly-EE6123?style=for-the-badge&logo=bitly&logoColor=white)](https://bit.ly/m/frankie-steinlie)
 
 </div>
 
