@@ -18,7 +18,7 @@ Hi! I'm **Frankie Steinlie**, a **Software Developer** with strong interest in:
 - 🌐 Web & Mobile Development  
 - 🚀 Building systems that solve real-world problems  
 
-I enjoy working on projects that combine **data, logic, and impact**, especially in logistics, analytics, and automation.
+I enjoy working on projects that combine **data, logic, and impact**.
 
 ---
 
