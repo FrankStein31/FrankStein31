@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-Hi! I'm **Frankie Steinlie**, a Software Developer based in **Surabaya, Indonesia** with a strong interest in:
+Hi! I'm **Frankie Steinlie**, a Software Developer based in **Indonesia** with a strong interest in:
 
 - 📊 **Data Science & Forecasting**
 - 🌐 **Web & Mobile Development**
