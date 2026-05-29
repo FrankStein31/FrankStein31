@@ -64,7 +64,7 @@ I enjoy working at the intersection of **data, logic, and impact** — and I'm a
 <div align="center">
 
 <!-- Streak Stats - reliable, hosted separately -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FrankStein31&theme=tokyonight&hide_border=true" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=FrankStein31&theme=tokyonight&hide_border=true" /> -->
 
 <br/><br/>
 
@@ -74,7 +74,7 @@ I enjoy working at the intersection of **data, logic, and impact** — and I'm a
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrankStein31&theme=tokyonight&utcOffset=7" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrankStein31&theme=tokyonight&utcOffset=7" /> -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrankStein31&theme=tokyonight" />
 
 </div>
