@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Frankie%20Steinlie&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Software%20Developer%20·%20Data%20Enthusiast%20·%20Problem%20Solver&descSize=15&descAlignY=62&descColor=8892b0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Frankie%20Steinlie&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Software%20Engineer%20·%20Data%20Enthusiast%20·%20Problem%20Solver&descSize=15&descAlignY=62&descColor=8892b0" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-Hi! I'm **Frankie Steinlie**, a Software Developer based in **Indonesia** with a strong interest in:
+Hi! I'm **Frankie Steinlie**, a Software Engineer based in **Indonesia** with a strong interest in:
 
 - 📊 **Data Science & Forecasting**
 - 🌐 **Web & Mobile Development**
