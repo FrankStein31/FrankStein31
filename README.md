@@ -1,102 +1,91 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Frankie%20Steinlie&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Software%20Engineer%20·%20Data%20Enthusiast%20·%20Problem%20Solver&descSize=15&descAlignY=62&descColor=8892b0" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=500&lines=Building+data-driven+applications+%F0%9F%9A%80;Turning+problems+into+solutions+%F0%9F%92%A1;Forecasting+with+data+science+%F0%9F%93%8A;Always+learning+something+new+%F0%9F%8C%B1" />
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=FrankStein31&style=flat-square&color=64ffda&label=Profile+Views)
-
+  <a href="https://frankie-steinlie.page.gd/" target="_blank">
+    <img src="./frankie-profile.svg" alt="Frankie Steinlie — Software Engineer & Data Enthusiast" width="100%" />
+  </a>
 </div>
 
----
+<br />
 
-### 👋 About Me
+### <img src="https://api.iconify.design/lucide/user-check.svg?color=%232F81F7" width="18" height="18" valign="middle" /> &nbsp;Profile Overview
 
-Hi! I'm **Frankie Steinlie**, a Software Engineer based in **Indonesia** with a strong interest in:
+I am **Frankie Steinlie**, a Software Engineer and IT Instructor based in **Surabaya, Indonesia**. I focus on engineering reliable software architectures that bridge complex data workflows with clean, high-utility user interfaces.
 
-- 📊 **Data Science & Forecasting**
-- 🌐 **Web & Mobile Development**
-- 🚀 **Building systems that solve real-world problems**
+* **Core Engineering:** Building full-stack web ecosystems, offline-first Progressive Web Apps (PWA), and cross-platform mobile applications.
+* **Applied Data Science:** Designing time-series forecasting pipelines and spatial GIS monitoring platforms for operational decision-making.
+* **Technical Mentorship:** Guiding developers and students in software architecture, database modeling, and modern web standards.
 
-I enjoy working at the intersection of **data, logic, and impact** — and I'm always learning something new.
+<br />
 
----
+### <img src="https://api.iconify.design/lucide/layers.svg?color=%232F81F7" width="18" height="18" valign="middle" /> &nbsp;Selected Architecture & Systems
 
-### 🧠 Tech Stack
+| System | Domain & Impact | Core Stack |
+| :--- | :--- | :--- |
+| **Sikarta GIS Platform** | Offline-first Progressive Web App for spatial incident mapping and field coordination with automated background sync. | `Laravel` `Vue.js` `Leaflet GIS` `PWA` |
+| **Enterprise E-Learning Suite** | Automated learning management platform featuring progress tracking, attendance analytics, and dynamic PDF certificate generation. | `Laravel` `MySQL` `JavaScript` `REST API` |
+| **Logistics Demand Forecasting** | Time-series predictive modeling engine to optimize regional package distribution and resource allocation. | `Python` `Prophet` `Pandas` `Jupyter` |
+
+<br />
+
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%232F81F7" width="18" height="18" valign="middle" /> &nbsp;Technology Stack
+
+<table>
+  <tr>
+    <td width="180"><strong>Frontend & Mobile</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Vue.js-161B22?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Kotlin-161B22?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & APIs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
+      <img src="https://img.shields.io/badge/Laravel-161B22?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data & Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MariaDB-161B22?style=flat-square&logo=mariadb&logoColor=003545" alt="MariaDB" />
+      <img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Jupyter-161B22?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### <img src="https://api.iconify.design/lucide/activity.svg?color=%232F81F7" width="18" height="18" valign="middle" /> &nbsp;Engineering Metrics
 
 <div align="center">
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Mobile**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Data & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrankStein31&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrankStein31&theme=github_dark" alt="Top Languages" />
 </div>
 
----
+<br />
 
-### 📊 GitHub Stats
+### <img src="https://api.iconify.design/lucide/arrow-up-right.svg?color=%232F81F7" width="18" height="18" valign="middle" /> &nbsp;Connect & Portfolio
 
-<div align="center">
-
-<!-- Streak Stats - reliable, hosted separately -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=FrankStein31&theme=tokyonight&hide_border=true" /> -->
-
-<br/><br/>
-
-<!-- Profile Summary Cards - alternative provider, very stable -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrankStein31&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrankStein31&theme=tokyonight" />
-
-<br/>
-
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrankStein31&theme=tokyonight&utcOffset=7" /> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrankStein31&theme=tokyonight" />
-
-</div>
-
----
-
-### 🌍 Connect With Me
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Personal%20Website-frankie--steinlie.page.gd-0f3460?style=for-the-badge&logo=googlechrome&logoColor=64ffda)](https://frankie-steinlie.page.gd/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frankie-steinlie/)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FrSteinlie)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frankstein31__/)
-[![Business](https://img.shields.io/badge/Business%20IG-FF6B35?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/steinliejoki)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
-
+<div align="left">
+  <a href="https://frankie-steinlie.page.gd/">
+    <img src="https://img.shields.io/badge/Portfolio-frankie--steinlie.page.gd-161B22?style=flat-square&logo=googlechrome&logoColor=2F81F7" alt="Personal Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/frankie-steinlie/">
+    <img src="https://img.shields.io/badge/LinkedIn-frankie--steinlie-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/FrSteinlie">
+    <img src="https://img.shields.io/badge/X-@FrSteinlie-161B22?style=flat-square&logo=x&logoColor=F0F6FC" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/frankstein31__/">
+    <img src="https://img.shields.io/badge/Instagram-@frankstein31____-161B22?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://steinliejoki.page.gd/">
+    <img src="https://img.shields.io/badge/Software_Services-Steinlie_Solution-161B22?style=flat-square&logo=codeforces&logoColor=3FB950" alt="Software Services" />
+  </a>
 </div>
