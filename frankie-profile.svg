@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="100%" height="280">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; }
+      .border-outer { fill: none; stroke: #21262D; stroke-width: 1.5; }
+      .panel { fill: #161B22; stroke: #30363D; stroke-width: 1; }
+      .grid-line { stroke: #161B22; stroke-width: 1; }
+      .accent-fill { fill: #2F81F7; }
+      .accent-stroke { stroke: #2F81F7; fill: none; }
+      .success-fill { fill: #3FB950; }
+      .text-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 700; fill: #F0F6FC; letter-spacing: -0.5px; }
+      .text-role { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-weight: 600; fill: #2F81F7; font-size: 13px; letter-spacing: 0.8px; }
+      .text-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 400; fill: #8B949E; font-size: 14px; }
+      .text-mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; fill: #C9D1D9; font-size: 11px; }
+      .text-muted { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; fill: #6E7681; font-size: 10px; }
+
+      /* Motion Graphic Keyframes */
+      @keyframes pulseDot {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.35; transform: scale(0.85); }
+      }
+      @keyframes drawChart {
+        0% { stroke-dashoffset: 260; }
+        40%, 85% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: 260; }
+      }
+      @keyframes barRise1 {
+        0%, 100% { height: 26px; y: 184px; }
+        50% { height: 44px; y: 166px; }
+      }
+      @keyframes barRise2 {
+        0%, 100% { height: 42px; y: 168px; }
+        50% { height: 28px; y: 182px; }
+      }
+      @keyframes barRise3 {
+        0%, 100% { height: 34px; y: 176px; }
+        50% { height: 52px; y: 158px; }
+      }
+      @keyframes barRise4 {
+        0%, 100% { height: 56px; y: 154px; }
+        50% { height: 38px; y: 172px; }
+      }
+      @keyframes scanLine {
+        0% { transform: translateX(0px); opacity: 0; }
+        15% { opacity: 1; }
+        85% { opacity: 1; }
+        100% { transform: translateX(250px); opacity: 0; }
+      }
+
+      .status-dot { animation: pulseDot 2.4s infinite ease-in-out; transform-origin: 54px 48px; }
+      .forecast-line { stroke-dasharray: 260; animation: drawChart 6s infinite ease-in-out; }
+      .bar-1 { animation: barRise1 4s infinite ease-in-out; }
+      .bar-2 { animation: barRise2 4.5s infinite ease-in-out; }
+      .bar-3 { animation: barRise3 3.8s infinite ease-in-out; }
+      .bar-4 { animation: barRise4 4.2s infinite ease-in-out; }
+      .scanner { animation: scanLine 5s infinite linear; }
+    </style>
+  </defs>
+
+  <!-- Solid Background Canvas -->
+  <rect class="bg" width="880" height="280" rx="12" />
+  <rect class="border-outer" x="0.75" y="0.75" width="878.5" height="278.5" rx="11.25" />
+
+  <!-- Subtle Architectural Grid Lines -->
+  <line class="grid-line" x1="40" y1="0" x2="40" y2="280" />
+  <line class="grid-line" x1="530" y1="0" x2="530" y2="280" />
+  <line class="grid-line" x1="840" y1="0" x2="840" y2="280" />
+  <line class="grid-line" x1="0" y1="76" x2="880" y2="76" />
+  <line class="grid-line" x1="0" y1="236" x2="880" y2="236" />
+
+  <!-- Left Column: Identity & Core Statement -->
+  <!-- Status Pill -->
+  <rect class="panel" x="40" y="34" width="218" height="28" rx="6" />
+  <circle class="success-fill status-dot" cx="54" cy="48" r="4" />
+  <text class="text-mono" x="66" y="52">SURABAYA, ID · AVAILABLE</text>
+
+  <!-- Main Heading -->
+  <text class="text-title" x="40" y="122" font-size="38">Frankie Steinlie, S.Tr.Kom</text>
+  <text class="text-role" x="40" y="148">SOFTWARE ENGINEER · DATA &amp; SYSTEMS ARCHITECT</text>
+
+  <!-- Concise Value Proposition -->
+  <text class="text-body" x="40" y="182">Designing scalable web platforms, offline-first field</text>
+  <text class="text-body" x="40" y="204">applications, and time-series forecasting engines.</text>
+
+  <!-- Bottom Left Metadata -->
+  <text class="text-muted" x="40" y="261">FOCUS: FULL-STACK ENGINEERING  /  GIS MAPPING  /  APPLIED FORECASTING</text>
+
+  <!-- Right Column: Live Telemetry & Architecture Widget -->
+  <rect class="panel" x="550" y="34" width="290" height="186" rx="8" />
+  
+  <!-- Widget Top Bar -->
+  <line x1="550" y1="64" x2="840" y2="64" stroke="#30363D" stroke-width="1" />
+  <circle cx="566" cy="49" r="3.5" fill="#484F58" />
+  <circle cx="578" cy="49" r="3.5" fill="#484F58" />
+  <circle cx="590" cy="49" r="3.5" fill="#484F58" />
+  <!-- <text class="text-muted" x="698" y="53">SYSTEM_TELEMETRY</text> -->
+
+  <!-- Mini Bar Chart (System Throughput) -->
+  <text class="text-muted" x="568" y="84">WORKLOAD DISTRIBUTION</text>
+  <rect class="bar-1" x="572" y="184" width="14" height="26" rx="2" fill="#21262D" />
+  <rect class="bar-2" x="594" y="168" width="14" height="42" rx="2" fill="#30363D" />
+  <rect class="bar-3" x="616" y="176" width="14" height="34" rx="2" fill="#21262D" />
+  <rect class="bar-4" x="638" y="154" width="14" height="56" rx="2" fill="#2F81F7" />
+
+  <!-- Divider -->
+  <line x1="672" y1="76" x2="672" y2="210" stroke="#21262D" stroke-width="1" />
+
+  <!-- Time-Series Forecasting Vector Motion -->
+  <text class="text-muted" x="688" y="84">FORECAST MODEL</text>
+  <polyline points="688,188 718,172 748,178 778,142 808,150 826,116" fill="none" stroke="#21262D" stroke-width="2" />
+  <polyline class="accent-stroke forecast-line" points="688,188 718,172 748,178 778,142 808,150 826,116" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Data Nodes -->
+  <circle cx="688" cy="188" r="3" fill="#0D1117" stroke="#2F81F7" stroke-width="2" />
+  <circle cx="748" cy="178" r="3" fill="#0D1117" stroke="#2F81F7" stroke-width="2" />
+  <circle cx="778" cy="142" r="3" fill="#0D1117" stroke="#2F81F7" stroke-width="2" />
+  <circle cx="826" cy="116" r="3.5" fill="#2F81F7" />
+
+  <!-- Vertical Scan Indicator -->
+  <line class="scanner" x1="565" y1="95" x2="565" y2="210" stroke="#2F81F7" stroke-width="1" stroke-dasharray="3 3" />
+
+  <!-- Bottom Right Metadata -->
+  <text class="text-muted" x="550" y="261">STACK: LARAVEL · VUE · REACT · PYTHON</text>
+</svg>
