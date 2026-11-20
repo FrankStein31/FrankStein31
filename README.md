@@ -6,6 +6,26 @@
 
 <br />
 
+<div align="left">
+  <a href="https://frankie-steinlie.page.gd/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-frankie--steinlie.page.gd-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Personal Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/frankie-steinlie/">
+    <img src="https://img.shields.io/badge/LINKEDIN-frankie--steinlie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  </a>
+  <a href="https://steinliejoki.page.gd/">
+    <img src="https://img.shields.io/badge/SERVICES-Steinlie_Solution-238636?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" alt="Software Services" />
+  </a>
+  <a href="https://x.com/FrSteinlie">
+    <img src="https://img.shields.io/badge/X-@FrSteinlie-161B22?style=for-the-badge&logo=x&logoColor=F0F6FC" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/frankstein31__/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@frankstein31____-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+</div>
+
+<br />
+
 ### <img src="https://api.iconify.design/lucide/user-check.svg?color=%232F81F7" width="18" height="18" valign="middle" /> &nbsp;Profile Overview
 
 I am **Frankie Steinlie**, a Software Engineer and IT Instructor based in **Surabaya, Indonesia**. I focus on engineering reliable software architectures that bridge complex data workflows with clean, high-utility user interfaces.
@@ -30,8 +50,8 @@ I am **Frankie Steinlie**, a Software Engineer and IT Instructor based in **Sura
 
 <table>
   <tr>
-    <td width="180"><strong>Frontend & Mobile</strong></td>
-    <td>
+    <td width="190"><strong>Frontend & Mobile</strong></td>
+    <td width="690">
       <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Vue.js-161B22?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
       <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -63,29 +83,7 @@ I am **Frankie Steinlie**, a Software Engineer and IT Instructor based in **Sura
 
 ### <img src="https://api.iconify.design/lucide/activity.svg?color=%232F81F7" width="18" height="18" valign="middle" /> &nbsp;Engineering Metrics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrankStein31&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrankStein31&theme=github_dark" alt="Top Languages" />
-</div>
-
-<br />
-
-### <img src="https://api.iconify.design/lucide/arrow-up-right.svg?color=%232F81F7" width="18" height="18" valign="middle" /> &nbsp;Connect & Portfolio
-
 <div align="left">
-  <a href="https://frankie-steinlie.page.gd/">
-    <img src="https://img.shields.io/badge/Portfolio-frankie--steinlie.page.gd-161B22?style=flat-square&logo=googlechrome&logoColor=2F81F7" alt="Personal Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/frankie-steinlie/">
-    <img src="https://img.shields.io/badge/LinkedIn-frankie--steinlie-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/FrSteinlie">
-    <img src="https://img.shields.io/badge/X-@FrSteinlie-161B22?style=flat-square&logo=x&logoColor=F0F6FC" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/frankstein31__/">
-    <img src="https://img.shields.io/badge/Instagram-@frankstein31____-161B22?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
-  <a href="https://steinliejoki.page.gd/">
-    <img src="https://img.shields.io/badge/Software_Services-Steinlie_Solution-161B22?style=flat-square&logo=codeforces&logoColor=3FB950" alt="Software Services" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrankStein31&theme=github_dark" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrankStein31&theme=github_dark" width="49%" alt="Top Languages" />
 </div>
